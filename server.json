@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.peter-j-thompson/semanticapi",
   "title": "Semantic API",
-  "description": "Search and discover any API using natural language. 163+ built-in providers with auto-discovery for any API on the internet. Returns endpoint details, parameters, auth info, and code snippets.",
+  "description": "Search and discover any API using natural language. 163+ providers with auto-discovery.",
   "version": "0.1.2",
   "packages": [
     {
