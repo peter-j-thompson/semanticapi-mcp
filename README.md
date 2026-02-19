@@ -92,6 +92,12 @@ Analyze any API from its documentation URL.
 
 **Example:** Analyze `https://docs.example.com/api` to generate a provider config
 
+## Related
+
+- **[Semantic API](https://semanticapi.dev)** — The hosted API service
+- **[semanticapi-engine](https://github.com/peter-j-thompson/semanticapi-engine)** — Open source engine (AGPL-3.0)
+- **[semantic-api-skill](https://github.com/peter-j-thompson/semantic-api-skill)** — Agent framework skill package
+
 ## License
 
 MIT
