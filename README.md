@@ -1,5 +1,7 @@
 # Semantic API MCP Server
 
+<!-- mcp-name: io.github.peter-j-thompson/semanticapi -->
+
 An [MCP (Model Context Protocol)](https://modelcontextprotocol.io) server that lets Claude, ChatGPT, and other LLM agents search and discover APIs using natural language via [Semantic API](https://semanticapi.dev). Ask for any API capability in plain English and get back endpoint details, parameters, auth info, and code snippets.
 
 ## Install
@@ -97,6 +99,8 @@ Analyze any API from its documentation URL.
 - **[Semantic API](https://semanticapi.dev)** — The hosted API service
 - **[semanticapi-engine](https://github.com/peter-j-thompson/semanticapi-engine)** — Open source engine (AGPL-3.0)
 - **[semantic-api-skill](https://github.com/peter-j-thompson/semantic-api-skill)** — Agent framework skill package
+
+<!-- mcp-name: io.github.peter-j-thompson/semanticapi -->
 
 ## License
 
