@@ -99,7 +99,7 @@ Analyze any API from its documentation URL.
 - **[Semantic API](https://semanticapi.dev)** — The hosted API service
 - **[semanticapi-engine](https://github.com/peter-j-thompson/semanticapi-engine)** — Open source engine (AGPL-3.0)
 - **[semantic-api-skill](https://github.com/peter-j-thompson/semantic-api-skill)** — Agent framework skill package
-- **[CLI Tool](https://github.com/peter-j-thompson/semanticapi-cloud)** — Command-line interface (in cloud repo)
+- **[CLI Tool](https://github.com/peter-j-thompson/semanticapi-cli)** — Command-line interface (`pip install semanticapi-cli`)
 
 <!-- mcp-name: io.github.peter-j-thompson/semanticapi -->
 
