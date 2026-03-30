@@ -106,3 +106,8 @@ Analyze any API from its documentation URL.
 ## License
 
 MIT
+
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/peter-j-thompson-semanticapi-mcp).
+
